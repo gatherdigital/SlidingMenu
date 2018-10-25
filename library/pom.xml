@@ -5,7 +5,7 @@
 
 	<artifactId>slidingmenu</artifactId>
 	<name>SlidingMenu</name>
-	<packaging>apklib</packaging>
+	<packaging>aar</packaging>
 
 	<parent>
 		<groupId>com.jeremyfeinstein.slidingmenu</groupId>
